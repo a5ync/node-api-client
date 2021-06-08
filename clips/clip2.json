@@ -1,0 +1,8 @@
+{
+"name": "clip B",
+  "asset_urls": [
+    {"url": "b1"},
+    {"url": "b2"},
+    {"url": "b3"}
+  ]
+}

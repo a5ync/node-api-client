@@ -1,0 +1,9 @@
+{
+"name": "clip A",
+  "duration_ms": 100,
+  "asset_urls": [
+    {"url": "a1"},
+    {"url": "a2"},
+    {"url": "a3"}
+  ]
+}
